@@ -1,0 +1,9 @@
+{
+    "short_name":"Hasan's Portfolio",
+    "icons": [
+        {
+            "src" : "logo.png"
+        }
+    ],
+    "start_url": "."
+}
