@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0f367472.css",
-    "main.js": "/portfolio/static/js/main.ea624441.js",
-    "static/media/Tweety.gif": "/portfolio/static/media/Tweety.cc7efee62e9c19d424e8.gif",
-    "static/media/sleeptracking.gif": "/portfolio/static/media/sleeptracking.54e18640e30ea0b5dae2.gif",
-    "static/media/profilepic.jpeg": "/portfolio/static/media/profilepic.c3d16f9a1458f7147a4d.jpeg",
-    "static/media/memoryGame.gif": "/portfolio/static/media/memoryGame.027d682244c30ad87eea.gif",
-    "static/media/simulation.gif": "/portfolio/static/media/simulation.25919d216a3f9b61ca68.gif",
-    "static/media/stopwatch.gif": "/portfolio/static/media/stopwatch.5df6475cc464dd267a71.gif",
-    "static/media/logo.png": "/portfolio/static/media/logo.7fd7d4941b2e56bc9dcc.png",
-    "static/media/countries.gif": "/portfolio/static/media/countries.cfd08b11ad9e25d62ad4.gif",
-    "static/media/portfolio.png": "/portfolio/static/media/portfolio.fd5b24bc9b416dabf45c.png",
-    "static/media/CV.pdf": "/portfolio/static/media/CV.d381162b46be4cbadd19.pdf",
-    "static/media/safariwares.jpeg": "/portfolio/static/media/safariwares.dd1985ba2b0fd2a1080b.jpeg",
-    "index.html": "/portfolio/index.html",
-    "main.0f367472.css.map": "/portfolio/static/css/main.0f367472.css.map",
-    "main.ea624441.js.map": "/portfolio/static/js/main.ea624441.js.map"
+    "main.css": "/static/css/main.0f367472.css",
+    "main.js": "/static/js/main.cfc2b5eb.js",
+    "static/media/Tweety.gif": "/static/media/Tweety.cc7efee62e9c19d424e8.gif",
+    "static/media/sleeptracking.gif": "/static/media/sleeptracking.54e18640e30ea0b5dae2.gif",
+    "static/media/profilepic.jpeg": "/static/media/profilepic.c3d16f9a1458f7147a4d.jpeg",
+    "static/media/memoryGame.gif": "/static/media/memoryGame.027d682244c30ad87eea.gif",
+    "static/media/simulation.gif": "/static/media/simulation.25919d216a3f9b61ca68.gif",
+    "static/media/stopwatch.gif": "/static/media/stopwatch.5df6475cc464dd267a71.gif",
+    "static/media/logo.png": "/static/media/logo.7fd7d4941b2e56bc9dcc.png",
+    "static/media/countries.gif": "/static/media/countries.cfd08b11ad9e25d62ad4.gif",
+    "static/media/portfolio.png": "/static/media/portfolio.fd5b24bc9b416dabf45c.png",
+    "static/media/CV.pdf": "/static/media/CV.d381162b46be4cbadd19.pdf",
+    "static/media/safariwares.jpeg": "/static/media/safariwares.dd1985ba2b0fd2a1080b.jpeg",
+    "index.html": "/index.html",
+    "main.0f367472.css.map": "/static/css/main.0f367472.css.map",
+    "main.cfc2b5eb.js.map": "/static/js/main.cfc2b5eb.js.map"
   },
   "entrypoints": [
     "static/css/main.0f367472.css",
-    "static/js/main.ea624441.js"
+    "static/js/main.cfc2b5eb.js"
   ]
 }

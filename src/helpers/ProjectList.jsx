@@ -6,6 +6,7 @@ import project5 from "../assets/memoryGame.gif";
 import project6 from "../assets/stopwatch.gif";
 import project7 from "../assets/simulation.gif";
 import project8 from "../assets/portfolio.png";
+import project9 from "../assets/cyberaci.png";
 
 export const projectList = [
   {
@@ -65,5 +66,12 @@ export const projectList = [
     githubLink: "https://github.com/tahasafdari/PortfolioMain",
     demoLink: "https://hasansafdari.dev",
     description: "React based project",
+  },
+  {
+    name: "CyberACI Website",
+    image: project9,
+    githubLink: "",
+    demoLink: "https://cyberaci.com",
+    description: "CyberACI website. Wordpress Project",
   },
 ];
