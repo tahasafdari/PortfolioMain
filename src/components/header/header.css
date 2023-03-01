@@ -1,11 +1,55 @@
 
-header {
-    height: 50vh;
-    padding-top: 7rem;
-    overflow: hidden;
+/* ICON Alignment */
+
+
+
+
+  .header__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .flex {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .left {
+    flex: 1;
+  }
+  
+  .right {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex: 1;
+  }
+  
+  .name {
+    font-size: 48px;
+    margin: 0;
+  }
+  
+
+/* ================================================================= */
+
+
+
+.lottieIcon {
+    width: 450px;
+    height: 450px;
+
+    
+
 
 }
-
+.flex{
+    display: flex;
+    flex-wrap: nowrap;;
+    
+}
 
 .header__container{
     padding-top: 10.35rem;
@@ -91,4 +135,28 @@ a:hover{
     .header__socials {
         visibility: hidden;
     }
+    .header__container {
+        padding: 50px 0;
+        
+      }
+    
+      .flex {
+        flex-direction: column;
+        justify-content: left;
+      }
+    
+      .left,
+      .right {
+        flex: unset;
+        width: 100%;
+      }
+    
+      .name {
+        font-size: 36px;
+      }
+    
+      .lottieIcon {
+        height: 300px;
+        width: 350px;
+      }
   }
